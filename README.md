@@ -6,7 +6,7 @@
   <title>Perfil de FABIANA0105</title>
 </head>
 <body>
-  <h1>Bem-vindo(a) ao perfil FABIANA0105 😁</h1>
+  <h1>Bem-vindo(a) ao perfil FABIANA0105 💕🧙</h1>
   
   <div>
     <a href="https://github.com/FABIANA0105">
